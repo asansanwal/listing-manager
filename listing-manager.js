@@ -51,7 +51,7 @@ const OB_USERNAME = "yourUsername";
 const OB_PASSWORD = "yourPassword";
 
 // Server Information
-const SERVER_URL = "http://serverdeployment2_p2pvps-server_1";
+const SERVER_URL = "http://165.140.84.23";
 const SERVER_PORT = "5000";
 //const SERVER_URL = "http://p2pvps.net";
 //const SERVER_PORT = "80";
